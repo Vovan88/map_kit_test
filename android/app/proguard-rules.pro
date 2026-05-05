@@ -1,0 +1,3 @@
+-keep class com.yandex.** { *; }
+-keep interface com.yandex.** { *; }
+-dontwarn com.yandex.**
