@@ -3,7 +3,7 @@ import 'package:yandex_maps_mapkit/init.dart' as init;
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await init.initMapkit(apiKey: "yakey");
+  await init.initMapkit(apiKey: "0f4790f6-2381-491b-9a21-cf596cc9e4fa");
   runApp(const MyApp());
 }
 
